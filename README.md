@@ -26,11 +26,11 @@ Le site est structuré en plusieurs sections :
 ## 📦 Organisation du projet
 
 Le projet est organisé de manière claire :
-**portfolio/**
-**├── index.html 
-├── style.css 
-├── logo.png 
-└── README.md**
+<br>**portfolio/**
+<br>**├── index.html 
+<br>├── style.css 
+<br>├── logo.png 
+<br>└── README.md**
 
 ## 🚀 Mise en ligne
 
