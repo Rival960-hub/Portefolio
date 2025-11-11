@@ -1,3 +1,45 @@
-# Portefolio
+# Portfolio BTS SIO – Albert
 
-Dans cette hub je fais présenter mon **portefolio** *simple* et *efficace*.
+Bienvenue sur mon portfolio personnel réalisé dans le cadre de ma formation en BTS SIO (Services Informatiques aux Organisations).
+
+## 🎯 Objectif du projet
+
+Ce portfolio a pour but de présenter mon parcours, mes compétences, mes projets et mes réflexions personnelles. Il est conçu pour être **simple**, **efficace** et **professionnel**, tout en reflétant mon évolution en tant qu’étudiant développeur.
+
+## 🧩 Contenu du portfolio
+
+Le site est structuré en plusieurs sections :
+
+- **Présentation** : Qui je suis, pourquoi j’ai choisi le BTS SIO, mes motivations.
+- **CV** : Mon parcours scolaire, mes expériences, mes compétences techniques.
+- **Veille technologique** : Suivi des évolutions dans le domaine du développement web, notamment les frameworks JavaScript.
+- **Épreuve E5** : Synthèse de mes compétences individuelles en lien avec le référentiel du BTS SIO.
+- **Bilan** : Retour personnel sur les missions réalisées et les compétences acquises.
+
+## 🛠️ Technologies utilisées
+
+- HTML / CSS pour la structure et le style
+- GitHub Pages pour l’hébergement
+- VS Code comme environnement de développement
+- Git pour la gestion de version
+
+## 📦 Organisation du projet
+
+Le projet est organisé de manière claire :
+**portfolio/**
+**├── index.html 
+├── style.css 
+├── logo.png 
+└── README.md**
+
+## 🚀 Mise en ligne
+
+Le site est hébergé via GitHub Pages, ce qui permet une consultation facile et une mise à jour rapide.
+
+## 📌 À propos
+
+Ce projet est une vitrine de mes compétences individuelles, de ma capacité à structurer un projet, à documenter mon travail et à présenter mes acquis de manière professionnelle.
+
+---
+
+Merci de votre visite !
