@@ -90,9 +90,11 @@ ul li {
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  margin-right: 10px; /* espace entre les boutons */
+  margin-bottom: 10px; /* évite le chevauchement vertical si responsive */
+  white-space: nowrap; /* empêche le texte de passer à la ligne */
 }
 
 .btn-download:hover {
   background-color: #0056b3; /* bleu plus foncé au survol */
 }
-
